@@ -1,2 +1,2 @@
 # Angular1
-Angular Project
+HTML, CSS, JavaScript, Typescript 
